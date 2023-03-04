@@ -61,20 +61,19 @@ function App() {
   }, [navigate]);
 
   useEffect(() => {
-    Promise.all([api.getUserInfo(), api.getInitialCards()])
-      .then(([userData, cardData]) => {
-        setCurrentUser({
-          ...userData,
-          _id: userData._id,
+    if (isLoggedIn) {
+      Promise.all([api.getUserInfo(), api.getInitialCards()])
+        .then(([userData, cardData]) => {
+          setCurrentUser((dataState) => ({ ...dataState, ...userData }));
+          setCards(cardData);
+        })
+        .catch((err) => {
+          console.log(`Ошибка.....: ${err}`);
         });
-        setCards(cardData);
-      })
-      .catch((err) => {
-        console.log(`Ошибка.....: ${err}`);
-      });
-  }, []);
+    }
+  }, [isLoggedIn]);
 
-    /* 
+  /* 
       .then((data) => {
         setCurrentUser({
           ...data,
