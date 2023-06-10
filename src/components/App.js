@@ -49,7 +49,7 @@ function App() {
         .then((data) => {
           setCurrentUser((userData) => ({
             ...userData,
-            email: data.data.email,
+            email: data.email,
           }));
           setIsLoggedIn(true);
           navigate("/");
