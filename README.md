@@ -35,4 +35,4 @@
 
 npm run start
 
-* [Ссылка на статичный сайт (без возможности регистрации) в  gh-pages](https://romananurov.github.io/mesto/index.html)
+* [Ссылка на  сайт  в  Surge](https://screeching-mass.surge.sh/)
