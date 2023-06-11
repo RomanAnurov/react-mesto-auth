@@ -35,4 +35,4 @@
 
 npm run start
 
-* [Ссылка на  сайт  в  Surge](https://screeching-mass.surge.sh/)
+* [Ссылка на  сайт  задеплоеный в Surge](https://react-mesto-auth83.surge.sh)
