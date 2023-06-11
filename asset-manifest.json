@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RomanAnurov/react-mesto-auth/static/css/main.fa5a86a3.css",
-    "main.js": "/RomanAnurov/react-mesto-auth/static/js/main.001cac60.js",
+    "main.css": "/RomanAnurov/react-mesto-auth/static/css/main.375be63f.css",
+    "main.js": "/RomanAnurov/react-mesto-auth/static/js/main.c01bccae.js",
     "static/js/787.2df4b1c8.chunk.js": "/RomanAnurov/react-mesto-auth/static/js/787.2df4b1c8.chunk.js",
     "static/media/Inter-Medium.woff?v=3.19": "/RomanAnurov/react-mesto-auth/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
     "static/media/Inter-Black.woff?v=3.19": "/RomanAnurov/react-mesto-auth/static/media/Inter-Black.c6938660eec019fefd68.woff",
@@ -21,12 +21,12 @@
     "static/media/Close-Icon.svg": "/RomanAnurov/react-mesto-auth/static/media/Close-Icon.2ceb783afbab75916ddc.svg",
     "static/media/add-button.svg": "/RomanAnurov/react-mesto-auth/static/media/add-button.d86bb2edc2f6eadb96b7.svg",
     "static/media/Close-Icon-mobile.svg": "/RomanAnurov/react-mesto-auth/static/media/Close-Icon-mobile.b793e07c3f4c19e26c11.svg",
-    "main.fa5a86a3.css.map": "/RomanAnurov/react-mesto-auth/static/css/main.fa5a86a3.css.map",
-    "main.001cac60.js.map": "/RomanAnurov/react-mesto-auth/static/js/main.001cac60.js.map",
+    "main.375be63f.css.map": "/RomanAnurov/react-mesto-auth/static/css/main.375be63f.css.map",
+    "main.c01bccae.js.map": "/RomanAnurov/react-mesto-auth/static/js/main.c01bccae.js.map",
     "787.2df4b1c8.chunk.js.map": "/RomanAnurov/react-mesto-auth/static/js/787.2df4b1c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa5a86a3.css",
-    "static/js/main.001cac60.js"
+    "static/css/main.375be63f.css",
+    "static/js/main.c01bccae.js"
   ]
 }
