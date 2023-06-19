@@ -37,4 +37,4 @@
 
 npm run start
 
-* [Ссылка на  сайт  задеплоеный в Surge](https://react-mesto-auth83.surge.sh)
+* [Ссылка на  сайт  задеплоеный в Surge](https://mesto-auth-react.surge.sh)
